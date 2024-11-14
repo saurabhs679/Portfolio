@@ -656,7 +656,7 @@ export const extraCurricular = [
     duration: "",
     content: [
       {
-        text: "I love exploring new places and enjoy traveling with friends. In India, I've lived in various regions and explored many destinations, including Pune, Mumbai, and Himachal Pradesh. Currently, I'm exploring Quebec, Canada.",
+        text: "I love exploring new places and enjoy traveling with friends. In India, I've lived in various regions and explored many destinations. Currently, I'm exploring Quebec, Canada.",
         link: "",
       },
       
