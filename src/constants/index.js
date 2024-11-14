@@ -27,7 +27,8 @@ import {
   mediapipe,
   chatbot,
   tvm,
-  hand
+  hand,
+  powerbi
 } from "../assets";
 
 import {
@@ -176,10 +177,10 @@ export const achievements = [
   }, 
   {
     id: "a-2",
-    icon: accolite,
-    event: "Spot Award",
-    position: "Winner",
-    content1: "For exemplary work and outstanding contribution to the organisation ",
+    icon: powerbi,
+    event: "Microsoft Power BI Desktop for Business Intelligence",
+    position: "Successfully completed",
+    content1: "Microsoft Power BI certification from Udemy, taught by Maven Analytics, Chris Dutton, and Aaron Parry.",
   }
 ];
 
@@ -643,7 +644,7 @@ export const extraCurricular = [
     duration: "",
     content: [
       {
-        text: "I work out 4-5 times a week, always make time for badminton.",
+        text: "I enjoy staying in shape and aim to work out 4-5 times a week. I also always make time for a game of badminton.",
         link: "",
       },
       

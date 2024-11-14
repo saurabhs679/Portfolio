@@ -72,6 +72,7 @@ import mediapipe from '/Users/saurabh/Documents/GitHub/portfolio/src/assets/medi
 import chatbot from '/Users/saurabh/Documents/GitHub/portfolio/src/assets/chatbot.jpg';
 import tvm from '/Users/saurabh/Documents/GitHub/portfolio/src/assets/tvm.jpg';
 import hand from '/Users/saurabh/Documents/GitHub/portfolio/src/assets/hand.png';
+import powerbi from '/Users/saurabh/Documents/GitHub/portfolio/src/assets/powerbi.png';
 
 
 
@@ -149,5 +150,6 @@ export {
   mediapipe,
   chatbot,
   tvm,
-  hand
+  hand,
+  powerbi
 };
