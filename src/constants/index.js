@@ -179,7 +179,7 @@ export const achievements = [
     id: "a-2",
     icon: powerbi,
     event: "Microsoft Power BI Desktop for Business Intelligence",
-    position: "Successfully completed",
+    position: "Successfully completed on July 11, 2024",
     content1: "Microsoft Power BI certification from Udemy, taught by Maven Analytics, Chris Dutton, and Aaron Parry.",
   }
 ];
