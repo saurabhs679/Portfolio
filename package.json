@@ -1,5 +1,5 @@
 {
-  "homepage":"https://saurabhs679.github.io/Portfolio",
+  "homepage": "https://saurabhs679.github.io/saurabhs679.github.io",
   "name": "portfolio",
   "private": true,
   "version": "0.0.0",
@@ -7,8 +7,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d dist",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "preview": "vite preview"
   },
   "dependencies": {
